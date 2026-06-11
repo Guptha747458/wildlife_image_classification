@@ -8,3 +8,5 @@ tensorflow
 keras
 seaborn
 tqdm
+streamlit
+joblib
